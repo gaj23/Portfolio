@@ -8,6 +8,7 @@ npm-debug.*
 *.mobileprovision
 *.orig.*
 web-build/
+pull_request_template.md
 
 # macOS
 .DS_Store
