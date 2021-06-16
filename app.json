@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "Portfolio",
-    "slug": "Portfolio",
+    "name": "gabrielle-joyce",
+    "slug": "gabrielle-joyce",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -27,6 +27,8 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "My general portfolio website that provides further details about who I am as a developer, things I've created, and my favorite birds.",
+    "githubUrl": "https://github.com/gaj23/Portfolio"
   }
 }
